@@ -25,7 +25,6 @@ where /path/to/example is the absolute path to the repo.
 3.  Open Rstudio server by opening your browser and navigating to `localhost:8787` on your browser.
 
 4.  Sign-in: 
-  `username: rstudio 
-   password: somepassword`.
+  **username:** `rstudio`   |   **password:** `somepassword`
 
 5.  Navigate to `/project`, open the `sleep.R` script and run it.
