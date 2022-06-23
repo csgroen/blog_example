@@ -4,7 +4,7 @@ To run the analysis contained in `sleep.R` in the same environment it was create
 
 1.  Pull the docker image from DockerHub:
 
-docker pull csgroen/blog_example
+`docker pull csgroen/blog_example`
 
 2.  Download this repo (e.g. `git clone csgroen/blog_example`)
 
